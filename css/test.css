@@ -1,0 +1,4 @@
+.test {
+	color: hct(21, 100%, 50%, 0.5);
+	background: hct(0, 0%, 50%);
+}
