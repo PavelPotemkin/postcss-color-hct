@@ -18,9 +18,13 @@
 }
 
 .content-item {
-	min-height: 100px;
+	min-height: 150px;
 }
 
 p {
 	margin: 0;
+}
+
+* {
+	font-size: 22px;
 }
